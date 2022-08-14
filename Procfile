@@ -1,1 +1,1 @@
-worker: python SchoolTasks.py
+worker: python ArtoxTrade.py
