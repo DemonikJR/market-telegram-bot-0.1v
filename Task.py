@@ -4,7 +4,7 @@ class Task():
     isRunning = False
     isStaffOpen = False
     isPay = False
-    yooacc_number = '410014635035950'
+    yooacc_number = ''
     yootoken = ''
     token = ''
     support_message = 'В разработке...'
